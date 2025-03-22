@@ -14,3 +14,5 @@ If you’re looking to integrate AI-powered features into your Ruby on Rails app
 👇 Check out the video for a detailed walkthrough of the RubyLLM gem in action🔥🔔
 
 🎥 Watch now and get started with RubyLLM today! 👇
+
+https://youtu.be/cgMe8-BZLhw
