@@ -15,5 +15,5 @@ If you’re looking to integrate AI-powered features into your Ruby on Rails app
 
 🎥 Watch now and get started with RubyLLM today! 👇
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=cgMe8-BZLhw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cgMe8-BZLhw/0.jpg)](https://www.youtube.com/watch?v=cgMe8-BZLhw)
 
